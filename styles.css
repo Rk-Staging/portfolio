@@ -1,4 +1,4 @@
-/* Rajesh Kumar Patra — Anshul-style dark / cyan portfolio */
+/* Rajesh Kumar Patra — dark cyan portfolio */
 
 :root {
   --bg: #1a1a1a;
@@ -562,7 +562,7 @@ button:focus-visible {
   font-size: 0.925rem;
 }
 
-/* Experience timeline (Anshul layout) */
+/* Experience timeline (timeline layout) */
 
 .exp-timeline {
   list-style: none;
